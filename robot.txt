@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://techandroboticssoham-afk.github.io/hiddenledger/sitemap.xml
